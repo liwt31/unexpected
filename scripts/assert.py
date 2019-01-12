@@ -1,0 +1,2 @@
+AssertionError = None
+assert False
